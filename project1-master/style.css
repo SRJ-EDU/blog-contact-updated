@@ -229,9 +229,7 @@ border-left: 50px solid #37383a;
       width:100%;
       object-fit: cover;
   }
-  .icons fa-facebook{
-      color:blue ;
-  }
+  
 
 /* contact page start */
 .srjIcons .fa-facebook {
@@ -258,7 +256,7 @@ border-left: 50px solid #37383a;
     padding-right: 20px;
 }
 
-.srjIcons .fa-facebook:hover {
+/* .srjIcons .fa-facebook:hover {
     color: #4267b2;
     font-size: 50px;
     text-decoration: none;
@@ -280,7 +278,7 @@ border-left: 50px solid #37383a;
     color: #0077b5;
     font-size: 50px;
     text-decoration: none;
-}
+} */
 
 .srjImageAndContent {
     width: 100%;
@@ -368,7 +366,9 @@ border-left: 50px solid #37383a;
 #srjBlog span {
     color: #999;
 }
-
+/* #srjBlog .fab i{
+    color: #333;
+} */
 #srjBlog .col-md-6 {
     padding-bottom: 10vh;
 }
@@ -390,7 +390,7 @@ border-left: 50px solid #37383a;
     padding-top: 30vh;
 }
 
-#srjBlog .srjContactUs .fab {
+#srjBlog .srjContactUs i {
     font-size: 40px;
     border-radius: 3px;
     text-decoration: none;
