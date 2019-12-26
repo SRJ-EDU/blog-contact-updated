@@ -1,2 +1,4 @@
-# blog-contact-updated
-URL: https://srj-edu.github.io/blog-contact-updated/project1-master/index.html
+# project1
+school ko website 
+
+URL: https://srj-edu.github.io/project1/index.html
